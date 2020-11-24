@@ -1,0 +1,30 @@
+body {
+    font-family: 'Playfair Display', serif;
+}
+
+.logo {
+    width: 120px;
+    height: 25px;
+}
+
+.nav li a {
+    font-size: 14px;
+    color: #626262;
+}
+
+.nav li a:hover {
+    text-decoration: underline;
+}
+
+.card {
+    border: none;
+}
+
+.card-body {
+    padding: 1.25rem 0;
+}
+
+.card-img, .card-img-top {
+    border-radius: 0;
+}
+
