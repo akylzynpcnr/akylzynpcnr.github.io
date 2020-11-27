@@ -16,6 +16,13 @@ body {
     text-decoration: underline;
 }
 
+@media screen and (max-width: 768px) {
+    .nav-link {
+        margin: 16px 0;
+        padding: 0 8px;
+    }
+}
+
 .card {
     border: none;
 }
